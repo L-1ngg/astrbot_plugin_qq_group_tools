@@ -1,0 +1,7 @@
+{
+  "enabled_groups": {
+    "description": "启用去重的 QQ 群号；留空表示所有群",
+    "type": "list",
+    "default": []
+  }
+}
